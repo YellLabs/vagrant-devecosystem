@@ -1,4 +1,4 @@
-box_default     = "centos-64-x64-vbox4210"
+box_default     = "centos64-puppet26"
 domain_default  = "vagrant.deveco.yb.int"
 
 nodes       = {
